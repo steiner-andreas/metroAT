@@ -12,6 +12,7 @@ The MetroAT dataset is a newly introduced open-source benchmark dataset designed
 - **Sampling Frequency:** 1 Hz  
 - **Data Organization:** Files are structured hierarchically by year, month, and day for efficient storage and retrieval.
   
+```text  
 MetroAT/
 ├── 2024/
 │   ├── 06/
@@ -43,6 +44,7 @@ MetroAT/
 │   ├── 03/
 │   │   └── ...
 │   └── ...
+```
 
 ## Variables
 
