@@ -11,6 +11,38 @@ The MetroAT dataset is a newly introduced open-source benchmark dataset designed
 - **Collection Period:** June 2024 – June 2025  
 - **Sampling Frequency:** 1 Hz  
 - **Data Organization:** Files are structured hierarchically by year, month, and day for efficient storage and retrieval.
+  
+MetroAT/
+├── 2024/
+│   ├── 06/
+│   │   ├── 01.parquet
+│   │   ├── 02.parquet
+│   │   ├── 03.parquet
+│   │   └── ...
+│   ├── 07/
+│   │   ├── 01.parquet
+│   │   ├── 02.parquet
+│   │   ├── 03.parquet
+│   │   └── ...
+│   ├── 08/
+│   │   ├── 01.parquet
+│   │   ├── 02.parquet
+│   │   └── ...
+│   └── ...
+│
+├── 2025/
+│   ├── 01/
+│   │   ├── 01.parquet
+│   │   ├── 02.parquet
+│   │   ├── 03.parquet
+│   │   └── ...
+│   ├── 02/
+│   │   ├── 01.parquet
+│   │   ├── 02.parquet
+│   │   └── ...
+│   ├── 03/
+│   │   └── ...
+│   └── ...
 
 ## Variables
 
