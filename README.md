@@ -1,6 +1,6 @@
 # About the Dataset
 
-> **Official Release Date:** June 1, 2026
+**Access the data here:** https://doi.org/10.48436/9ja0q-bq581
 
 ## Overview
 The MetroAT dataset is a newly introduced open-source benchmark dataset designed for research and development in data-driven maintenance of metro pneumatic systems. It comprises 105 variables and approximately 25 million observations collected continuously over a one-year period, capturing the operational behavior of multiple pneumatic system components.
